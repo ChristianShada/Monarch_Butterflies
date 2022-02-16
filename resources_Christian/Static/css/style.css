@@ -6,3 +6,8 @@ body,
   padding: 0;
   margin: 0;
 }
+.jumbotron {
+  background-image: url("shutterstock_1512536354.jpg");
+  background-size: 100% 157%;
+  text-align: right;
+}
