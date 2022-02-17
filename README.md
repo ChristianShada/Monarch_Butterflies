@@ -11,7 +11,7 @@ https://monarchwatch.org/tagging/index.html
 https://journeynorth.org/sightings/ 
 
 ## Hypothesis
-Based on historical monarch butterfly data, the amount of butterflies in a given location during a specific month can be predicted based on historical data.
+Based on historical monarch butterfly data, the amount of butterflies in a given location during a specific month can be predicted.
 
 ## Approach for Analysis
 
