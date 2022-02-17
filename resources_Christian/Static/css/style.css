@@ -1,10 +1,10 @@
 html,
 body,
 #mapid {
-  width: 100%;
+  width: 95%;
   height: 100%;
   padding: 0;
-  margin: 0;
+  margin: 30px;
 }
 .jumbotron {
   background-image: url("shutterstock_1512536354.jpg");
