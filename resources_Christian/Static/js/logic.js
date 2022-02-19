@@ -16,14 +16,14 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 // Then we add our 'streets' title layer to the map.
 streets.addTo(map);
 
-// Accessing the airport GeoJSON URL
-const MonarchURL = '/static/JNorth_Adult_First_Site.json';
+// Accessing the JSON File
+const MonarchURL = 'static/journey_north/JNorth_Adult_Site_2016_11.geojson';
 
 // Grabbing our GeoJSON data.
 d3.json(MonarchURL).then(function(data) {
-    console.log(data);
-  // Creating a GeoJSON layer with the retrieved data.
-  L.geoJSON(data).addTo(map);
+// console.log(data);
+// Creating a GeoJSON layer with the retrieved data.
+L.geoJSON(data).addTo(map);
 });
 
 // Then we add our 'graymap' tile layer to the map.
