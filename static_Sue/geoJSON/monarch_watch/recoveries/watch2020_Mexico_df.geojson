@@ -7,14 +7,14 @@
     "Tag Code": "775IZ",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -24,14 +24,14 @@
     "Tag Code": "AAAB310",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -41,14 +41,14 @@
     "Tag Code": "AAAE401",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -58,14 +58,14 @@
     "Tag Code": "AAAE620",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -75,14 +75,14 @@
     "Tag Code": "AAAM653",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -92,14 +92,14 @@
     "Tag Code": "AAAN163",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -109,14 +109,14 @@
     "Tag Code": "AAAR048",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -126,14 +126,14 @@
     "Tag Code": "AAAW641",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -143,14 +143,14 @@
     "Tag Code": "AABA649",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -160,14 +160,14 @@
     "Tag Code": "AABB388",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -177,14 +177,14 @@
     "Tag Code": "AABB895",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -194,14 +194,14 @@
     "Tag Code": "AABC305",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -211,14 +211,14 @@
     "Tag Code": "AACM749",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -228,14 +228,14 @@
     "Tag Code": "AACM779",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -245,14 +245,14 @@
     "Tag Code": "AACS031",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -262,14 +262,14 @@
     "Tag Code": "AACS078",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -279,14 +279,14 @@
     "Tag Code": "AACW123",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -296,14 +296,14 @@
     "Tag Code": "AAEC730",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -313,14 +313,14 @@
     "Tag Code": "AAEC974",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -330,14 +330,14 @@
     "Tag Code": "AAEG420",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -347,14 +347,14 @@
     "Tag Code": "AAEJ264",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -364,14 +364,14 @@
     "Tag Code": "AAEJ591",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -381,14 +381,14 @@
     "Tag Code": "AAEN732",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -398,14 +398,14 @@
     "Tag Code": "AAES793",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -415,14 +415,14 @@
     "Tag Code": "AAET621",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -432,14 +432,14 @@
     "Tag Code": "AAEX093",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -449,14 +449,14 @@
     "Tag Code": "AAGC443",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -466,14 +466,14 @@
     "Tag Code": "AAHC186",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -483,14 +483,14 @@
     "Tag Code": "AAHG764",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -500,14 +500,14 @@
     "Tag Code": "AAHX021",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -517,14 +517,14 @@
     "Tag Code": "AAJE556",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -534,14 +534,14 @@
     "Tag Code": "AAJW332",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -551,14 +551,14 @@
     "Tag Code": "AALC701",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -568,14 +568,14 @@
     "Tag Code": "AALC720",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -585,14 +585,14 @@
     "Tag Code": "AALE265",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -602,14 +602,14 @@
     "Tag Code": "AALL557",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -619,14 +619,14 @@
     "Tag Code": "AALP369",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -636,14 +636,14 @@
     "Tag Code": "AALR194",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -653,14 +653,14 @@
     "Tag Code": "AALR640",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -670,14 +670,14 @@
     "Tag Code": "AALS122",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -687,14 +687,14 @@
     "Tag Code": "AALS199",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -704,14 +704,14 @@
     "Tag Code": "AAMA124",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -721,14 +721,14 @@
     "Tag Code": "AAMA448",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -738,14 +738,14 @@
     "Tag Code": "AAMC699",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -755,14 +755,14 @@
     "Tag Code": "AAME892",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -772,14 +772,14 @@
     "Tag Code": "AAMH665",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -789,14 +789,14 @@
     "Tag Code": "AAMH973",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -806,14 +806,14 @@
     "Tag Code": "AAML530",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -823,14 +823,14 @@
     "Tag Code": "AAML733",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -840,14 +840,14 @@
     "Tag Code": "AAMM783",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -857,14 +857,14 @@
     "Tag Code": "AAMM859",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -874,14 +874,14 @@
     "Tag Code": "AAMM976",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -891,14 +891,14 @@
     "Tag Code": "AAMR520",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -908,14 +908,14 @@
     "Tag Code": "AAMS018",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -925,14 +925,14 @@
     "Tag Code": "AAMZ679",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -942,14 +942,14 @@
     "Tag Code": "AANJ384",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -959,14 +959,14 @@
     "Tag Code": "AANJ822",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -976,14 +976,14 @@
     "Tag Code": "AANL064",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -993,14 +993,14 @@
     "Tag Code": "AANL123",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1010,14 +1010,14 @@
     "Tag Code": "AANL560",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1027,14 +1027,14 @@
     "Tag Code": "AANN755",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1044,14 +1044,14 @@
     "Tag Code": "AANP410",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1061,14 +1061,14 @@
     "Tag Code": "AANR503",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1078,14 +1078,14 @@
     "Tag Code": "AANT088",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1095,14 +1095,14 @@
     "Tag Code": "AANT627",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1112,14 +1112,14 @@
     "Tag Code": "AANU242",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1129,14 +1129,14 @@
     "Tag Code": "AAPB064",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1146,14 +1146,14 @@
     "Tag Code": "AAPB963",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1163,14 +1163,14 @@
     "Tag Code": "AAPC020",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1180,14 +1180,14 @@
     "Tag Code": "AAPC273",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1197,14 +1197,14 @@
     "Tag Code": "AAPC617",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1214,14 +1214,14 @@
     "Tag Code": "AAPC792",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1231,14 +1231,14 @@
     "Tag Code": "AAPG390",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1248,14 +1248,14 @@
     "Tag Code": "AAPG564",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1265,14 +1265,14 @@
     "Tag Code": "AAPH054",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1282,14 +1282,14 @@
     "Tag Code": "AAPH358",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1299,14 +1299,14 @@
     "Tag Code": "AAPJ436",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1316,14 +1316,14 @@
     "Tag Code": "AAPR413",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1333,14 +1333,14 @@
     "Tag Code": "AARG495",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1350,14 +1350,14 @@
     "Tag Code": "AASG454",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1367,14 +1367,14 @@
     "Tag Code": "AASH069",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1384,14 +1384,14 @@
     "Tag Code": "AASM740",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1401,14 +1401,14 @@
     "Tag Code": "AASP160",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1418,14 +1418,14 @@
     "Tag Code": "AASZ020",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1435,14 +1435,14 @@
     "Tag Code": "AATA073",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1452,14 +1452,14 @@
     "Tag Code": "AATB132",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1469,14 +1469,14 @@
     "Tag Code": "AATN059",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1486,14 +1486,14 @@
     "Tag Code": "AATP258",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1503,14 +1503,14 @@
     "Tag Code": "AAUA866",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1520,14 +1520,14 @@
     "Tag Code": "AAUB467",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1537,14 +1537,14 @@
     "Tag Code": "AAUG987",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1554,14 +1554,14 @@
     "Tag Code": "AAUH059",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1571,14 +1571,14 @@
     "Tag Code": "AAUX850",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1588,14 +1588,14 @@
     "Tag Code": "AAWL807",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1605,14 +1605,14 @@
     "Tag Code": "AAWU032",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1622,14 +1622,14 @@
     "Tag Code": "AAWU735",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1639,14 +1639,14 @@
     "Tag Code": "AAWU977",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1656,14 +1656,14 @@
     "Tag Code": "AAWZ375",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1673,14 +1673,14 @@
     "Tag Code": "AAWZ941",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1690,14 +1690,14 @@
     "Tag Code": "AAXC112",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1707,14 +1707,14 @@
     "Tag Code": "AAXG788",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1724,14 +1724,14 @@
     "Tag Code": "AAXG956",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1741,14 +1741,14 @@
     "Tag Code": "AAXH367",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1758,14 +1758,14 @@
     "Tag Code": "AAXH701",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1775,14 +1775,14 @@
     "Tag Code": "AAXH725",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1792,14 +1792,14 @@
     "Tag Code": "AAXN206",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1809,14 +1809,14 @@
     "Tag Code": "AAXP183",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1826,14 +1826,14 @@
     "Tag Code": "AAXX729",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1843,14 +1843,14 @@
     "Tag Code": "AAXY744",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1860,14 +1860,14 @@
     "Tag Code": "AAYB862",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1877,14 +1877,14 @@
     "Tag Code": "AAYB925",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1894,14 +1894,14 @@
     "Tag Code": "AAYC719",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1911,14 +1911,14 @@
     "Tag Code": "AAYE135",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1928,14 +1928,14 @@
     "Tag Code": "AAYX527",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1945,14 +1945,14 @@
     "Tag Code": "AAYY286",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1962,14 +1962,14 @@
     "Tag Code": "AAYY309",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1979,14 +1979,14 @@
     "Tag Code": "AAYY871",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -1996,14 +1996,14 @@
     "Tag Code": "AAZA562",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2013,14 +2013,14 @@
     "Tag Code": "AAZB768",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2030,14 +2030,14 @@
     "Tag Code": "AAZE310",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2047,14 +2047,14 @@
     "Tag Code": "AAZE330",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2064,14 +2064,14 @@
     "Tag Code": "AAZE344",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2081,14 +2081,14 @@
     "Tag Code": "AAZE850",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2098,14 +2098,14 @@
     "Tag Code": "AAZL084",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2115,14 +2115,14 @@
     "Tag Code": "AAZL739",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2132,14 +2132,14 @@
     "Tag Code": "AAZZ109",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2149,14 +2149,14 @@
     "Tag Code": "ABAJ426",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2166,14 +2166,14 @@
     "Tag Code": "ABAM146",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2183,14 +2183,14 @@
     "Tag Code": "ABBA678",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2200,14 +2200,14 @@
     "Tag Code": "ABBE150",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2217,14 +2217,14 @@
     "Tag Code": "ABBS086",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2234,14 +2234,14 @@
     "Tag Code": "ABBY598",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2251,14 +2251,14 @@
     "Tag Code": "ABCB012",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2268,14 +2268,14 @@
     "Tag Code": "ABCB041",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2285,14 +2285,14 @@
     "Tag Code": "ABCP029",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2302,14 +2302,14 @@
     "Tag Code": "ABCP212",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2319,14 +2319,14 @@
     "Tag Code": "ABCP252",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2336,14 +2336,14 @@
     "Tag Code": "ABCP629",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2353,14 +2353,14 @@
     "Tag Code": "ABET228",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2370,14 +2370,14 @@
     "Tag Code": "ABGA632",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2387,14 +2387,14 @@
     "Tag Code": "ABGC002",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2404,14 +2404,14 @@
     "Tag Code": "ABGC177",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2421,14 +2421,14 @@
     "Tag Code": "ABGN645",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2438,14 +2438,14 @@
     "Tag Code": "ABHP428",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2455,14 +2455,14 @@
     "Tag Code": "ABHR062",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2472,14 +2472,14 @@
     "Tag Code": "ABHT387",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2489,14 +2489,14 @@
     "Tag Code": "ABHT471",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2506,14 +2506,14 @@
     "Tag Code": "ABHT496",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2523,14 +2523,14 @@
     "Tag Code": "ABJJ869",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2540,14 +2540,14 @@
     "Tag Code": "ABJJ906",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2557,14 +2557,14 @@
     "Tag Code": "ABJM990",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2574,14 +2574,14 @@
     "Tag Code": "ABJY682",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2591,14 +2591,14 @@
     "Tag Code": "ABLM110",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2608,14 +2608,14 @@
     "Tag Code": "ABLP137",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2625,14 +2625,14 @@
     "Tag Code": "ABMH391",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2642,14 +2642,14 @@
     "Tag Code": "ABMJ215",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2659,14 +2659,14 @@
     "Tag Code": "ABMR973",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2676,14 +2676,14 @@
     "Tag Code": "ABMS147",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2693,14 +2693,14 @@
     "Tag Code": "ABNS811",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2710,14 +2710,14 @@
     "Tag Code": "ABPE611",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2727,14 +2727,14 @@
     "Tag Code": "ABPG572",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2744,14 +2744,14 @@
     "Tag Code": "ABPL973",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2761,14 +2761,14 @@
     "Tag Code": "ABPM116",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2778,14 +2778,14 @@
     "Tag Code": "ABPP254",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2795,14 +2795,14 @@
     "Tag Code": "ABPP275",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2812,14 +2812,14 @@
     "Tag Code": "ABPR693",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2829,14 +2829,14 @@
     "Tag Code": "ABPR902",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2846,14 +2846,14 @@
     "Tag Code": "ABPT047",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2863,14 +2863,14 @@
     "Tag Code": "ABPT397",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2880,14 +2880,14 @@
     "Tag Code": "ABPT515",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2897,14 +2897,14 @@
     "Tag Code": "ABPT750",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2914,14 +2914,14 @@
     "Tag Code": "ABPU063",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2931,14 +2931,14 @@
     "Tag Code": "ABPU471",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2948,14 +2948,14 @@
     "Tag Code": "ABPX254",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2965,14 +2965,14 @@
     "Tag Code": "ABPX751",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2982,14 +2982,14 @@
     "Tag Code": "ABRE392",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -2999,14 +2999,14 @@
     "Tag Code": "ABRE406",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3016,14 +3016,14 @@
     "Tag Code": "ABRJ180",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3033,14 +3033,14 @@
     "Tag Code": "ABRJ741",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3050,14 +3050,14 @@
     "Tag Code": "ABRN701",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3067,14 +3067,14 @@
     "Tag Code": "ABRW354",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3084,14 +3084,14 @@
     "Tag Code": "ABSA184",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3101,14 +3101,14 @@
     "Tag Code": "ABSG527",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3118,14 +3118,14 @@
     "Tag Code": "ABSH347",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3135,14 +3135,14 @@
     "Tag Code": "ABSJ928",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3152,14 +3152,14 @@
     "Tag Code": "ABSL231",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3169,14 +3169,14 @@
     "Tag Code": "ABSL443",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3186,14 +3186,14 @@
     "Tag Code": "ABSL850",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3203,14 +3203,14 @@
     "Tag Code": "ABSL907",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3220,14 +3220,14 @@
     "Tag Code": "ABSM053",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3237,14 +3237,14 @@
     "Tag Code": "ABSM133",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3254,14 +3254,14 @@
     "Tag Code": "ABSN548",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3271,14 +3271,14 @@
     "Tag Code": "ABSS632",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3288,14 +3288,14 @@
     "Tag Code": "ABSU429",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3305,14 +3305,14 @@
     "Tag Code": "ABSX380",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3322,14 +3322,14 @@
     "Tag Code": "ABSX463",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3339,14 +3339,14 @@
     "Tag Code": "ABSZ655",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3356,14 +3356,14 @@
     "Tag Code": "ABTA314",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3373,14 +3373,14 @@
     "Tag Code": "ABTA494",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3390,14 +3390,14 @@
     "Tag Code": "ABTA519",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3407,14 +3407,14 @@
     "Tag Code": "ABTE341",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3424,14 +3424,14 @@
     "Tag Code": "ABTG469",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3441,14 +3441,14 @@
     "Tag Code": "ABTG498",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3458,14 +3458,14 @@
     "Tag Code": "ABTH839",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3475,14 +3475,14 @@
     "Tag Code": "ABTJ510",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3492,14 +3492,14 @@
     "Tag Code": "ABTJ570",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3509,14 +3509,14 @@
     "Tag Code": "ABTM475",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3526,14 +3526,14 @@
     "Tag Code": "ABTR966",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3543,14 +3543,14 @@
     "Tag Code": "ABTS260",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3560,14 +3560,14 @@
     "Tag Code": "ABTT132",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3577,14 +3577,14 @@
     "Tag Code": "ABTT821",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3594,14 +3594,14 @@
     "Tag Code": "ABTY654",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3611,14 +3611,14 @@
     "Tag Code": "ABTZ402",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3628,14 +3628,14 @@
     "Tag Code": "ABTZ431",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3645,14 +3645,14 @@
     "Tag Code": "ABUB704",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3662,14 +3662,14 @@
     "Tag Code": "ABUC759",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3679,14 +3679,14 @@
     "Tag Code": "ABUC789",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3696,14 +3696,14 @@
     "Tag Code": "ABUC937",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3713,14 +3713,14 @@
     "Tag Code": "ABUE681",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3730,14 +3730,14 @@
     "Tag Code": "ABUG275",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3747,14 +3747,14 @@
     "Tag Code": "ABUG414",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3764,14 +3764,14 @@
     "Tag Code": "ABUJ555",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3781,14 +3781,14 @@
     "Tag Code": "ABUJ845",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3798,14 +3798,14 @@
     "Tag Code": "ABUL290",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3815,14 +3815,14 @@
     "Tag Code": "ABUN352",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3832,14 +3832,14 @@
     "Tag Code": "ABUN525",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3849,14 +3849,14 @@
     "Tag Code": "ABUP911",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3866,14 +3866,14 @@
     "Tag Code": "ABUT557",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3883,14 +3883,14 @@
     "Tag Code": "ABUT624",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3900,14 +3900,14 @@
     "Tag Code": "ABUU882",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3917,14 +3917,14 @@
     "Tag Code": "ABUW291",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3934,14 +3934,14 @@
     "Tag Code": "ABUW567",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3951,14 +3951,14 @@
     "Tag Code": "ABUX323",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3968,14 +3968,14 @@
     "Tag Code": "ABUX399",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -3985,14 +3985,14 @@
     "Tag Code": "ABUY237",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4002,14 +4002,14 @@
     "Tag Code": "ABUY341",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4019,14 +4019,14 @@
     "Tag Code": "ABWA699",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4036,14 +4036,14 @@
     "Tag Code": "ABWB181",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4053,14 +4053,14 @@
     "Tag Code": "ABWB563",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4070,14 +4070,14 @@
     "Tag Code": "ABWC397",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4087,14 +4087,14 @@
     "Tag Code": "ABWC520",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4104,14 +4104,14 @@
     "Tag Code": "ABWC910",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4121,14 +4121,14 @@
     "Tag Code": "ABWP183",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4138,14 +4138,14 @@
     "Tag Code": "ABWR189",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4155,14 +4155,14 @@
     "Tag Code": "ABWU291",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4172,14 +4172,14 @@
     "Tag Code": "ABWW828",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4189,14 +4189,14 @@
     "Tag Code": "ABWZ240",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4206,14 +4206,14 @@
     "Tag Code": "ABXA696",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4223,14 +4223,14 @@
     "Tag Code": "ABXA925",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4240,14 +4240,14 @@
     "Tag Code": "ABXB762",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4257,14 +4257,14 @@
     "Tag Code": "ABXE027",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4274,14 +4274,14 @@
     "Tag Code": "ABXE259",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4291,14 +4291,14 @@
     "Tag Code": "ABXG497",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4308,14 +4308,14 @@
     "Tag Code": "ABXL666",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4325,14 +4325,14 @@
     "Tag Code": "ABXP140",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4342,14 +4342,14 @@
     "Tag Code": "ABXR980",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4359,14 +4359,14 @@
     "Tag Code": "ABXT059",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4376,14 +4376,14 @@
     "Tag Code": "ABXT204",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4393,14 +4393,14 @@
     "Tag Code": "ABXT253",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4410,14 +4410,14 @@
     "Tag Code": "ABXT547",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4427,14 +4427,14 @@
     "Tag Code": "ABXT579",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4444,14 +4444,14 @@
     "Tag Code": "ABXT923",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4461,14 +4461,14 @@
     "Tag Code": "ABXU093",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4478,14 +4478,14 @@
     "Tag Code": "ABXU649",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4495,14 +4495,14 @@
     "Tag Code": "ABXX275",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4512,14 +4512,14 @@
     "Tag Code": "ABXX711",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4529,14 +4529,14 @@
     "Tag Code": "ABYA954",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4546,14 +4546,14 @@
     "Tag Code": "ABYB806",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4563,14 +4563,14 @@
     "Tag Code": "ABYC257",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4580,14 +4580,14 @@
     "Tag Code": "ABYC481",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4597,14 +4597,14 @@
     "Tag Code": "ABYC950",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4614,14 +4614,14 @@
     "Tag Code": "ABYE337",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4631,14 +4631,14 @@
     "Tag Code": "ABYG159",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4648,14 +4648,14 @@
     "Tag Code": "ABYG962",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4665,14 +4665,14 @@
     "Tag Code": "ABYH099",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4682,14 +4682,14 @@
     "Tag Code": "ABYJ839",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4699,14 +4699,14 @@
     "Tag Code": "ABYL010",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4716,14 +4716,14 @@
     "Tag Code": "ABYL400",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4733,14 +4733,14 @@
     "Tag Code": "ABYM772",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4750,14 +4750,14 @@
     "Tag Code": "ABYP709",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4767,14 +4767,14 @@
     "Tag Code": "ABYS504",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4784,14 +4784,14 @@
     "Tag Code": "ABYS992",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4801,14 +4801,14 @@
     "Tag Code": "ABYT990",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4818,14 +4818,14 @@
     "Tag Code": "ABYT993",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4835,14 +4835,14 @@
     "Tag Code": "ABYU357",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4852,14 +4852,14 @@
     "Tag Code": "ABYW267",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4869,14 +4869,14 @@
     "Tag Code": "ABYW395",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4886,14 +4886,14 @@
     "Tag Code": "ABYX018",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4903,14 +4903,14 @@
     "Tag Code": "ABYX248",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4920,14 +4920,14 @@
     "Tag Code": "ABYZ598",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4937,14 +4937,14 @@
     "Tag Code": "ABZA737",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4954,14 +4954,14 @@
     "Tag Code": "ABZA957",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4971,14 +4971,14 @@
     "Tag Code": "ABZB738",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -4988,14 +4988,14 @@
     "Tag Code": "ABZC302",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5005,14 +5005,14 @@
     "Tag Code": "ABZE064",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5022,14 +5022,14 @@
     "Tag Code": "ABZG042",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5039,14 +5039,14 @@
     "Tag Code": "ABZG144",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5056,14 +5056,14 @@
     "Tag Code": "ABZG417",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5073,14 +5073,14 @@
     "Tag Code": "ABZG464",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5090,14 +5090,14 @@
     "Tag Code": "ABZH103",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5107,14 +5107,14 @@
     "Tag Code": "ABZH214",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5124,14 +5124,14 @@
     "Tag Code": "ABZJ402",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5141,14 +5141,14 @@
     "Tag Code": "ABZJ479",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5158,14 +5158,14 @@
     "Tag Code": "ABZJ599",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5175,14 +5175,14 @@
     "Tag Code": "ABZJ614",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5192,14 +5192,14 @@
     "Tag Code": "ABZJ719",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5209,14 +5209,14 @@
     "Tag Code": "ABZL034",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5226,14 +5226,14 @@
     "Tag Code": "ABZL826",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5243,14 +5243,14 @@
     "Tag Code": "ABZN203",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5260,14 +5260,14 @@
     "Tag Code": "ABZN711",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5277,14 +5277,14 @@
     "Tag Code": "ABZT256",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5294,14 +5294,14 @@
     "Tag Code": "ABZT526",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5311,14 +5311,14 @@
     "Tag Code": "ABZT917",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5328,14 +5328,14 @@
     "Tag Code": "ABZW549",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5345,14 +5345,14 @@
     "Tag Code": "ABZW568",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5362,14 +5362,14 @@
     "Tag Code": "ABZW571",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5379,14 +5379,14 @@
     "Tag Code": "ABZW797",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5396,14 +5396,14 @@
     "Tag Code": "ABZX126",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5413,14 +5413,14 @@
     "Tag Code": "ABZY607",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5430,14 +5430,14 @@
     "Tag Code": "ACAA917",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5447,14 +5447,14 @@
     "Tag Code": "ACAB070",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5464,14 +5464,14 @@
     "Tag Code": "ACAH435",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5481,14 +5481,14 @@
     "Tag Code": "ACAJ610",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5498,14 +5498,14 @@
     "Tag Code": "ACAJ924",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5515,14 +5515,14 @@
     "Tag Code": "ACAP565",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5532,14 +5532,14 @@
     "Tag Code": "ACAP991",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5549,14 +5549,14 @@
     "Tag Code": "ACAR059",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5566,14 +5566,14 @@
     "Tag Code": "ACAS277",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5583,14 +5583,14 @@
     "Tag Code": "ACAT891",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5600,14 +5600,14 @@
     "Tag Code": "ACAW300",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5617,14 +5617,14 @@
     "Tag Code": "ACAX461",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5634,14 +5634,14 @@
     "Tag Code": "ACAX620",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5651,14 +5651,14 @@
     "Tag Code": "ACBC850",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5668,14 +5668,14 @@
     "Tag Code": "ACBE129",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5685,14 +5685,14 @@
     "Tag Code": "ACBE920",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5702,14 +5702,14 @@
     "Tag Code": "ACBH780",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5719,14 +5719,14 @@
     "Tag Code": "ACBM060",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5736,14 +5736,14 @@
     "Tag Code": "ACBM486",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5753,14 +5753,14 @@
     "Tag Code": "ACBT192",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5770,14 +5770,14 @@
     "Tag Code": "ACBX076",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5787,14 +5787,14 @@
     "Tag Code": "ACBX130",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5804,14 +5804,14 @@
     "Tag Code": "ACBX619",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5821,14 +5821,14 @@
     "Tag Code": "ACCB589",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5838,14 +5838,14 @@
     "Tag Code": "ACCJ126",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5855,14 +5855,14 @@
     "Tag Code": "ACCU260",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5872,14 +5872,14 @@
     "Tag Code": "ACCU543",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5889,14 +5889,14 @@
     "Tag Code": "ACCU754",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5906,14 +5906,14 @@
     "Tag Code": "ACCW401",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5923,14 +5923,14 @@
     "Tag Code": "ACCW403",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5940,14 +5940,14 @@
     "Tag Code": "ACEA417",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5957,14 +5957,14 @@
     "Tag Code": "ACEB907",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5974,14 +5974,14 @@
     "Tag Code": "ACEC059",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -5991,14 +5991,14 @@
     "Tag Code": "ACEC701",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6008,14 +6008,14 @@
     "Tag Code": "ACEC769",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6025,14 +6025,14 @@
     "Tag Code": "ACEG435",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6042,14 +6042,14 @@
     "Tag Code": "ACEG594",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6059,14 +6059,14 @@
     "Tag Code": "ACEG778",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6076,14 +6076,14 @@
     "Tag Code": "ACEH720",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6093,14 +6093,14 @@
     "Tag Code": "ACEJ207",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6110,14 +6110,14 @@
     "Tag Code": "ACEM278",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6127,14 +6127,14 @@
     "Tag Code": "ACEN834",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6144,14 +6144,14 @@
     "Tag Code": "ACEN909",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6161,14 +6161,14 @@
     "Tag Code": "ACEP287",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6178,14 +6178,14 @@
     "Tag Code": "ACEP410",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6195,14 +6195,14 @@
     "Tag Code": "ACEP417",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6212,14 +6212,14 @@
     "Tag Code": "ACEP660",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6229,14 +6229,14 @@
     "Tag Code": "ACEP690",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6246,14 +6246,14 @@
     "Tag Code": "ACEP843",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6263,14 +6263,14 @@
     "Tag Code": "ACER054",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6280,14 +6280,14 @@
     "Tag Code": "ACER974",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6297,14 +6297,14 @@
     "Tag Code": "ACES032",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6314,14 +6314,14 @@
     "Tag Code": "ACES552",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6331,14 +6331,14 @@
     "Tag Code": "ACET809",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6348,14 +6348,14 @@
     "Tag Code": "ACEW202",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6365,14 +6365,14 @@
     "Tag Code": "ACEW707",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6382,14 +6382,14 @@
     "Tag Code": "ACGB002",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6399,14 +6399,14 @@
     "Tag Code": "ACGB229",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6416,14 +6416,14 @@
     "Tag Code": "ACGE635",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6433,14 +6433,14 @@
     "Tag Code": "ACGE710",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6450,14 +6450,14 @@
     "Tag Code": "ACGE713",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6467,14 +6467,14 @@
     "Tag Code": "ACGG664",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6484,14 +6484,14 @@
     "Tag Code": "ACGH399",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6501,14 +6501,14 @@
     "Tag Code": "ACGJ247",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6518,14 +6518,14 @@
     "Tag Code": "ACGM576",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6535,14 +6535,14 @@
     "Tag Code": "ACGW185",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6552,14 +6552,14 @@
     "Tag Code": "ACGW518",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6569,14 +6569,14 @@
     "Tag Code": "ACGW786",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6586,14 +6586,14 @@
     "Tag Code": "ACGX531",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6603,14 +6603,14 @@
     "Tag Code": "ACGY364",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6620,14 +6620,14 @@
     "Tag Code": "ACGZ502",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6637,14 +6637,14 @@
     "Tag Code": "ACGZ798",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6654,14 +6654,14 @@
     "Tag Code": "ACGZ862",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6671,14 +6671,14 @@
     "Tag Code": "ACHA241",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6688,14 +6688,14 @@
     "Tag Code": "ACHB558",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6705,14 +6705,14 @@
     "Tag Code": "ACHB932",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6722,14 +6722,14 @@
     "Tag Code": "ACHH890",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6739,14 +6739,14 @@
     "Tag Code": "ACHM954",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6756,14 +6756,14 @@
     "Tag Code": "ACHT843",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6773,14 +6773,14 @@
     "Tag Code": "ACHW078",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6790,14 +6790,14 @@
     "Tag Code": "ACHW079",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6807,14 +6807,14 @@
     "Tag Code": "ACJC214",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6824,14 +6824,14 @@
     "Tag Code": "ACJC369",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6841,14 +6841,14 @@
     "Tag Code": "ACJE031",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6858,14 +6858,14 @@
     "Tag Code": "ACJG428",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6875,14 +6875,14 @@
     "Tag Code": "ACJG634",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6892,14 +6892,14 @@
     "Tag Code": "ACJG953",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6909,14 +6909,14 @@
     "Tag Code": "ACJH767",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6926,14 +6926,14 @@
     "Tag Code": "ACJJ682",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6943,14 +6943,14 @@
     "Tag Code": "ACJJ737",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6960,14 +6960,14 @@
     "Tag Code": "ACJL649",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6977,14 +6977,14 @@
     "Tag Code": "ACJL670",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -6994,14 +6994,14 @@
     "Tag Code": "ACJL758",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7011,14 +7011,14 @@
     "Tag Code": "ACJM407",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7028,14 +7028,14 @@
     "Tag Code": "ACJZ668",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7045,14 +7045,14 @@
     "Tag Code": "ACLA772",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7062,14 +7062,14 @@
     "Tag Code": "ACLB258",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7079,14 +7079,14 @@
     "Tag Code": "ACLB372",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7096,14 +7096,14 @@
     "Tag Code": "ACLB390",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7113,14 +7113,14 @@
     "Tag Code": "ACLE071",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7130,14 +7130,14 @@
     "Tag Code": "ACLE654",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7147,14 +7147,14 @@
     "Tag Code": "ACLG097",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7164,14 +7164,14 @@
     "Tag Code": "ACLG280",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7181,14 +7181,14 @@
     "Tag Code": "ACLG705",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7198,14 +7198,14 @@
     "Tag Code": "ACLN280",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7215,14 +7215,14 @@
     "Tag Code": "ACLN311",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7232,14 +7232,14 @@
     "Tag Code": "ACLR027",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7249,14 +7249,14 @@
     "Tag Code": "ACLR776",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7266,14 +7266,14 @@
     "Tag Code": "ACLU566",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7283,14 +7283,14 @@
     "Tag Code": "ACLW120",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7300,14 +7300,14 @@
     "Tag Code": "ACLW453",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7317,14 +7317,14 @@
     "Tag Code": "ACLX259",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7334,14 +7334,14 @@
     "Tag Code": "ACMB136",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7351,14 +7351,14 @@
     "Tag Code": "ACMG304",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7368,14 +7368,14 @@
     "Tag Code": "ACMG604",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7385,14 +7385,14 @@
     "Tag Code": "ACMJ361",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7402,14 +7402,14 @@
     "Tag Code": "ACML998",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7419,14 +7419,14 @@
     "Tag Code": "ACMU206",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7436,14 +7436,14 @@
     "Tag Code": "ACMU271",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7453,14 +7453,14 @@
     "Tag Code": "ACMU489",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7470,14 +7470,14 @@
     "Tag Code": "ACNB072",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7487,14 +7487,14 @@
     "Tag Code": "ACNC505",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7504,14 +7504,14 @@
     "Tag Code": "ACNC634",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7521,14 +7521,14 @@
     "Tag Code": "ACNC999",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7538,14 +7538,14 @@
     "Tag Code": "ACNE696",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7555,14 +7555,14 @@
     "Tag Code": "ACNL045",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7572,14 +7572,14 @@
     "Tag Code": "ACNR653",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7589,14 +7589,14 @@
     "Tag Code": "ACNS308",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7606,14 +7606,14 @@
     "Tag Code": "ACNS658",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7623,14 +7623,14 @@
     "Tag Code": "ACNY831",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7640,14 +7640,14 @@
     "Tag Code": "ACNZ357",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7657,14 +7657,14 @@
     "Tag Code": "ACPB278",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7674,14 +7674,14 @@
     "Tag Code": "ACPB889",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7691,14 +7691,14 @@
     "Tag Code": "ACPE595",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7708,14 +7708,14 @@
     "Tag Code": "ACPL142",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7725,14 +7725,14 @@
     "Tag Code": "ACPM094",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7742,14 +7742,14 @@
     "Tag Code": "ACPT733",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7759,14 +7759,14 @@
     "Tag Code": "ACPW146",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7776,14 +7776,14 @@
     "Tag Code": "ACPX670",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7793,14 +7793,14 @@
     "Tag Code": "ACRA335",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7810,14 +7810,14 @@
     "Tag Code": "ACRB745",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7827,14 +7827,14 @@
     "Tag Code": "ACRE639",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7844,14 +7844,14 @@
     "Tag Code": "ACRM166",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7861,14 +7861,14 @@
     "Tag Code": "ACRS951",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7878,14 +7878,14 @@
     "Tag Code": "ACRT327",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7895,14 +7895,14 @@
     "Tag Code": "ACRY088",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7912,14 +7912,14 @@
     "Tag Code": "ACRY509",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7929,14 +7929,14 @@
     "Tag Code": "ACSB139",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7946,14 +7946,14 @@
     "Tag Code": "ACSC310",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7963,14 +7963,14 @@
     "Tag Code": "ACSC958",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7980,14 +7980,14 @@
     "Tag Code": "CFO075",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -7997,14 +7997,14 @@
     "Tag Code": "CIC229",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8014,14 +8014,14 @@
     "Tag Code": "HHG522",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8031,14 +8031,14 @@
     "Tag Code": "HLM702",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8048,14 +8048,14 @@
     "Tag Code": "OO087",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8065,14 +8065,14 @@
     "Tag Code": "RLC111",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8082,14 +8082,14 @@
     "Tag Code": "RNY637",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8099,14 +8099,14 @@
     "Tag Code": "SRN058",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8116,14 +8116,14 @@
     "Tag Code": "TLJ572",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8133,14 +8133,14 @@
     "Tag Code": "TNM754",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8150,14 +8150,14 @@
     "Tag Code": "TNN056",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8167,14 +8167,14 @@
     "Tag Code": "UCZ198",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8184,14 +8184,14 @@
     "Tag Code": "UHM980",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8201,14 +8201,14 @@
     "Tag Code": "UJM710",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8218,14 +8218,14 @@
     "Tag Code": "UMX447",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8235,14 +8235,14 @@
     "Tag Code": "UPE557",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8252,14 +8252,14 @@
     "Tag Code": "WCE234",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8269,14 +8269,14 @@
     "Tag Code": "WEA065",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8286,14 +8286,14 @@
     "Tag Code": "WEG718",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8303,14 +8303,14 @@
     "Tag Code": "WEP507",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8320,14 +8320,14 @@
     "Tag Code": "WGR583",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8337,14 +8337,14 @@
     "Tag Code": "WGR615",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8354,14 +8354,14 @@
     "Tag Code": "WGR684",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8371,14 +8371,14 @@
     "Tag Code": "WGR685",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8388,14 +8388,14 @@
     "Tag Code": "WHY176",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8405,14 +8405,14 @@
     "Tag Code": "WJB907",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8422,14 +8422,14 @@
     "Tag Code": "WLA905",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8439,14 +8439,14 @@
     "Tag Code": "WPS914",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8456,14 +8456,14 @@
     "Tag Code": "XEP594",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8473,14 +8473,14 @@
     "Tag Code": "XTC711",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8490,14 +8490,14 @@
     "Tag Code": "YAJ205",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8507,14 +8507,14 @@
     "Tag Code": "YCG539",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8524,14 +8524,14 @@
     "Tag Code": "YEB009",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8541,14 +8541,14 @@
     "Tag Code": "YEW660",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8558,14 +8558,14 @@
     "Tag Code": "YJZ939",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8575,14 +8575,14 @@
     "Tag Code": "YLJ926",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8592,14 +8592,14 @@
     "Tag Code": "YPR523",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8609,14 +8609,14 @@
     "Tag Code": "YPZ135",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8626,14 +8626,14 @@
     "Tag Code": "YTZ797",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8643,14 +8643,14 @@
     "Tag Code": "YWC427",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8660,14 +8660,14 @@
     "Tag Code": "YYB640",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
@@ -8677,14 +8677,14 @@
     "Tag Code": "ZBW423",
     "Report Season": 2020,
     "Location": "El Rosario",
-    "latitude": 115.7258,
-    "longitude": 30.0595
+    "latitude": 30.059549,
+    "longitude": -115.725754
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     30.0595,
-     115.7258
+     -115.725754,
+     30.059549
     ]
    }
   },
