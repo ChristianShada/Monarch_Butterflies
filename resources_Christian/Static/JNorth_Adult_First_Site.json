@@ -1,0 +1,33 @@
+{
+    "type":"FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 886471649,
+                "sighting_date": "1998-02-01",
+                "species": "Monarch Adult (FIRST sighted)",
+                "number": 1,
+                "latitude": 29.957,
+                "longitude": -90.078,
+                "flag_location": 0,
+                "comments": "We saw 2 butterflies hatch this weekend.  We believe these are left overs still from fall.",
+                "school": "-999999.999",
+                "grade": -999999.999,
+                "image_url": "-999999.999",
+                "customerid": 9704694,
+                "number_old": -999999.999,
+                "flag_number": 1,
+                "species_old": "FIRST Monarch Butterfly",
+                "flag_species": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.078,
+                    29.957
+                ]
+            }
+        }
+    ]
+}
