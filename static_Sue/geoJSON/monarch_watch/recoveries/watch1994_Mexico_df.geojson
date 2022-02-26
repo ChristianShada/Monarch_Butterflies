@@ -1,0 +1,141 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "082KZ",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "103LX",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "687KJ",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "801KF",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "835KQ",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "842LT",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "858KU",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "986LG",
+    "Report Season": 1994,
+    "Location": "Angangueo",
+    "latitude": 19.6196,
+    "longitude": 100.2835
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2835,
+     19.6196
+    ]
+   }
+  }
+ ]
+}

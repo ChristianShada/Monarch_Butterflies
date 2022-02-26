@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "160AF",
+    "Report Season": 1993,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "169AJ",
+    "Report Season": 1993,
+    "Location": "Sierra Chincua",
+    "latitude": 19.6706,
+    "longitude": 100.2782
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2782,
+     19.6706
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,4901 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "551TZ",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "AHQ131",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "BCU560",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "BLX060",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "HBU634",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "LMT828",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "MBH898",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "NEH856",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "NJC883",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "NJH867",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "NJN542",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "NLN961",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "PHX209",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "PJU774",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RAX815",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RAY488",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RCM292",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RGB961",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RGE540",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RGP257",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RGP302",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RGR855",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RGY104",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RHA231",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RHN156",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RHU144",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RJB500",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RJH014",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RJU525",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RLB775",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RLZ650",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RNH705",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RNP372",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RNY726",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RPA262",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RRE240",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RRG827",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SAW909",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SAY762",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SAY894",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SAZ332",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SBA672",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SBC111",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SBC139",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SBC303",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SBT600",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCC614",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCJ475",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCJ985",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCY262",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCY734",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCZ307",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCZ376",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SCZ389",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEA136",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEA661",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEA765",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEB157",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEB301",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEB609",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEC708",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEC789",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEG669",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEJ638",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEL228",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEL350",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEL361",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEL507",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEM886",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEP881",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SER355",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SES621",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SES663",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SES711",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SET555",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SET597",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEU948",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEU978",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEU985",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEU999",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEX215",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEX586",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEZ573",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEZ594",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEZ653",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEZ694",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEZ706",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGA789",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGA879",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGA884",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGA927",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGB013",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGB166",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGB178",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGB629",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGB761",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGG933",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGJ959",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGM627",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGM802",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGP798",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGP809",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGR169",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGW453",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGX542",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SGX554",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHC361",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHC372",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHG035",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHG186",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHG335",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHH649",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHM849",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHN416",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHN555",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHN659",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHN786",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHP810",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHR482",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHR680",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHX861",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHY013",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SHY433",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJC579",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJC799",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJE688",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJH275",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJS913",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJX623",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJX881",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJY067",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJY381",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJZ663",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLE208",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLE484",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLE738",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLG050",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLH351",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLJ439",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLM075",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLM189",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLT771",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLT796",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLW788",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLX844",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SLZ293",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SMA530",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SMA858",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TAY537",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TAZ806",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBA262",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBA509",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBA588",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBE895",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBE999",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBT144",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBT507",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBU679",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCH866",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCJ060",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCJ225",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCJ595",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCP698",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCP973",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCR121",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCR292",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCR333",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCR623",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCR799",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCR824",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCS081",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCS266",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCS346",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCS408",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCS424",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCT434",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCT516",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCT791",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCU818",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCW024",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCX055",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCZ937",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCZ991",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEA645",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEB137",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEB368",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEB801",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEB892",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEC856",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEG630",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEH232",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEH462",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEM411",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEM759",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TET535",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEU163",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEU173",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEZ973",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TF318",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGA875",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGC155",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGE539",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGG105",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGG278",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGG424",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGH008",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGN579",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGR277",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGW682",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGX744",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGY972",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THA379",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THA417",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THC429",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THE710",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THE754",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THE832",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THE996",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THG151",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THH652",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THH939",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THH964",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THJ576",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THM203",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THP230",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THR647",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THS494",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THS953",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THX675",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THY079",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THY272",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJE413",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJG517",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJG798",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJG890",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJL175",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJS598",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJT786",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJT841",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJU315",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJW889",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJX579",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJY249",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJY393",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJY399",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLC779",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLG535",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLG542",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLH761",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLH836",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLJ022",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLS087",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLS575",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLS950",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLY625",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TLZ087",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMA129",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMG687",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMN137",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMN450",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMP900",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMP901",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMR622",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMS036",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMS431",
+    "Report Season": 2014,
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": 115.7258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.7258,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGC787",
+    "Report Season": 2014,
+    "Location": "Cerro Pelon",
+    "latitude": 19.3918,
+    "longitude": 100.2611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2611,
+     19.3918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJC188",
+    "Report Season": 2014,
+    "Location": "Cerro Pelon",
+    "latitude": 19.3918,
+    "longitude": 100.2611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2611,
+     19.3918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJE983",
+    "Report Season": 2014,
+    "Location": "Cerro Pelon",
+    "latitude": 19.3918,
+    "longitude": 100.2611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2611,
+     19.3918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TJW896",
+    "Report Season": 2014,
+    "Location": "Cerro Pelon",
+    "latitude": 19.3918,
+    "longitude": 100.2611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2611,
+     19.3918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TMR462",
+    "Report Season": 2014,
+    "Location": "Cerro Pelon",
+    "latitude": 19.3918,
+    "longitude": 100.2611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2611,
+     19.3918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TPN973",
+    "Report Season": 2014,
+    "Location": "Cerro Pelon",
+    "latitude": 19.3918,
+    "longitude": 100.2611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2611,
+     19.3918
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEN091",
+    "Report Season": 2014,
+    "Location": "Sierra Chincua",
+    "latitude": 19.6706,
+    "longitude": 100.2782
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2782,
+     19.6706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TGU433",
+    "Report Season": 2014,
+    "Location": "Sierra Chincua",
+    "latitude": 19.6706,
+    "longitude": 100.2782
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.2782,
+     19.6706
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "DAP922",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "PCY075",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "PEA931",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "PJW793",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "RJ171",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SEU536",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJJ042",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJX502",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "SJY444",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TAX565",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TBL581",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TCU339",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TEM057",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "TER317",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Tag Code": "THX229",
+    "Report Season": 2014,
+    "Location": "Piedra Herrada",
+    "latitude": 20.73,
+    "longitude": 102.6188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.6188,
+     20.73
+    ]
+   }
+  }
+ ]
+}
