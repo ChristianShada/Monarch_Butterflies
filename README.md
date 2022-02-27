@@ -23,7 +23,8 @@ Collecting and cleaning the data from CSVs, merging the datasets, then using pan
 # <br>
 **How we got here:<br>**
 <p align="center">
-    Our idea had a similar path much like our topic. We started at one stage, it change shape and idendity and became soemthing a lot more wonderful than anyone of us would have expected </p> 
+Our idea had a similar path much like our topic. We started at one stage, it change shape and idendity and became soemthing a lot more wonderful than anyone of us would have expected
+</p> 
 
 **_Christian_**<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a group we were trying to decide how to what data we were trying to find. We had discussed what our occupations are and if there was a way to incorporate that into our project. As we we are all in very different occupations at this time, it was difficult to find something decisive. I had some experience with Monarch Butterflies in my past and I had found data from journeynorth.com to which kick-started our project. I was able to locate a simple data-set to which our project quickly evolved into its next state. We had found our data and we were on a roll.<br>
