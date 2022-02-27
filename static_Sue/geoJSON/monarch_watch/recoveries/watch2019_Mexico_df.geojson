@@ -6536,12 +6536,12 @@
     "Report Season": 2019,
     "Location": "Valle De Bravo",
     "latitude": 19.19387,
-    "longitude": 100.13394
+    "longitude": -100.13394
    },
    "geometry": {
     "type": "Point",
     "coordinates": [
-     100.13394,
+     -100.13394,
      19.19387
     ]
    }
