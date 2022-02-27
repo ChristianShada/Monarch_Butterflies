@@ -13,17 +13,6 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
 
-
-// Accessing the JSON File
-//const MonarchURL = 'static/journey_north/JNorth_Adult_Site_2016_11.geojson';
-// Grabbing our GeoJSON data.
-//d3.json(MonarchURL).then(function(data) {
-// console.log(data);
-// Creating a GeoJSON layer with the retrieved data.
-//L.geoJSON(data).addTo(map);
-//});
-
-
 // Create the map object with a center and zoom level.
 let map2 = L.map('mapid2').setView([40.7, -94.5], 4);
 
