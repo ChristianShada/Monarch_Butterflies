@@ -4,30 +4,12 @@
   {
    "type": "Feature",
    "properties": {
-    "Report Season": 2020,
-    "species": "Monarch Tag Recovered",
-    "Location": "Atlautla",
-    "latitude": 19.02188,
-    "longitude": -98.77859,
-    "number": 1
-   },
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -98.77859,
-     19.02188
-    ]
-   }
-  },
-  {
-   "type": "Feature",
-   "properties": {
-    "Report Season": 2020,
+    "Report Season": 2018,
     "species": "Monarch Tag Recovered",
     "Location": "Cerro Pelon",
     "latitude": 19.025,
     "longitude": -100.142,
-    "number": 137
+    "number": 197
    },
    "geometry": {
     "type": "Point",
@@ -40,12 +22,12 @@
   {
    "type": "Feature",
    "properties": {
-    "Report Season": 2020,
+    "Report Season": 2018,
     "species": "Monarch Tag Recovered",
     "Location": "El Rosario",
     "latitude": 30.0595,
     "longitude": -115.7257,
-    "number": 511
+    "number": 514
    },
    "geometry": {
     "type": "Point",
@@ -58,12 +40,12 @@
   {
    "type": "Feature",
    "properties": {
-    "Report Season": 2020,
+    "Report Season": 2018,
     "species": "Monarch Tag Recovered",
     "Location": "Piedra Herrada",
     "latitude": 21.216666666666665,
     "longitude": -103.03133333333334,
-    "number": 1
+    "number": 20
    },
    "geometry": {
     "type": "Point",
@@ -76,12 +58,12 @@
   {
    "type": "Feature",
    "properties": {
-    "Report Season": 2020,
+    "Report Season": 2018,
     "species": "Monarch Tag Recovered",
     "Location": "Sierra Chincua",
     "latitude": 20.11766666666667,
     "longitude": -100.46366666666667,
-    "number": 22
+    "number": 4
    },
    "geometry": {
     "type": "Point",
