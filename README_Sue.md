@@ -88,7 +88,7 @@ Collecting and cleaning the data from CSVs, merging the datasets, then using pan
 * dropped columns for geoJSONs
 * output files as optimized geoJSON unsummerized and summerized
 
-7. Mapped and designed leyers for data using JavaScript, Mapbox, Leaflet, and tested the performance and usability of the geJSON files in Mapbox map/Leaflet layers
+7. Mapped and designed layers for data using JavaScript, Mapbox, Leaflet, and tested the performance and usability of the geJSON files in Mapbox map/Leaflet layers
 
 8. Worked with a Leaflet markercluster plug-in to improve the performance and usability of the geJSON files in Mapbox map/Leaflet layers
 
